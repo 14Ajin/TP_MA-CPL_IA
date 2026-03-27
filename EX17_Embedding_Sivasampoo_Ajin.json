@@ -106,7 +106,7 @@
       "parameters": {
         "operation": "toJson",
         "options": {
-          "fileName": "embeddingSmith.json"
+          "fileName": "embeddingAjin.json"
         }
       },
       "type": "n8n-nodes-base.convertToFile",
@@ -121,7 +121,7 @@
     {
       "parameters": {
         "operation": "write",
-        "fileName": "/data/embeddingSmith.json",
+        "fileName": "/data/embeddingAjin.json",
         "options": {}
       },
       "type": "n8n-nodes-base.readWriteFile",
